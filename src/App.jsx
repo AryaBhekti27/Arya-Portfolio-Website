@@ -352,7 +352,7 @@ function Home() {
           </div>
 
           <a
-            href="https://wa.me/6281234567890"
+            href="https://wa.me/6285795035892"
             target="_blank"
             rel="noreferrer"
             className="contact-button"
