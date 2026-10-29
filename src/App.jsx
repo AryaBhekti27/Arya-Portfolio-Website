@@ -201,7 +201,7 @@ function Navbar() {
 
       <div className="nav-actions">
         <a
-          href="/CV-Muhammad-Arya.pdf"
+          href="/CV-Arya-Bhekti.pdf"
           download
           className="btn btn-secondary"
         >
